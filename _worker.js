@@ -6,7 +6,7 @@ import { connect } from "cloudflare:sockets";
 const DEFAULT_UUID = "";
 const DEFAULT_TROJAN_PASS = "";
 const DEFAULT_PROXY_IP = "cdn-b100.xn--b6gac.eu.org";
-const DEFAULT_PROXY_URL = "https://raw.githubusercontent.com/proxzero/galaxy-subdomain/refs/heads/main/PROXYIP.txt";
+const DEFAULT_PROXY_URL = "https://raw.githubusercontent.com/gprox-galaxy/Cloudflare-Galaxytunnel/refs/heads/main/PROXYIP.txt";
 const DEFAULT_DOH_URL = "https://cloudflare-dns.com/dns-query";
 const DEFAULT_WS_PATH = "galaxy-tunnel";
 
