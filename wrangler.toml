@@ -9,7 +9,7 @@ keep_vars = true
 UUID = ""
 # If TROJAN_PASS is empty, it automatically uses the UUID value for Trojan authentication
 TROJAN_PASS = ""
-PASSWORD = ""
+PASSWORD = "galaxy-tunnel"
 MASK_PAGE = "true"
 WS_PATH = "galaxy-tunnel"
 PROXYIP = "cdn-b100.xn--b6gac.eu.org"
